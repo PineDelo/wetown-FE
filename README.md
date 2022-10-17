@@ -23,7 +23,7 @@ SM 엔터테인먼트 사이트 주소 : https://smtownandstore.com/
 
 - 헤더(페이지 상단의 메뉴 바), 메인 슬라이더, Pet for U (메인 페이지에서 보이는 상품 사진들) 구현
 
-2. 박태준 (상품 리스트 페이지, Footer)
+2. 박태준 (상품 리스트 페이지, Footer) / BE-repo: https://github.com/PineDelo/wetown-BE
 
 - 카테고리(동물 종류)별로 그에 해당하는 상품들의 목록을 보여주는 페이지 구현
 - 사이트 하단에 위치한 Footer 구현
