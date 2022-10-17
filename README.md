@@ -65,4 +65,3 @@ SM 엔터테인먼트 사이트 주소 : https://smtownandstore.com/
 #### 회원가입 페이지
 
 <img width="1042" alt="스크린샷 2022-01-07 오후 6 53 10" src="https://user-images.githubusercontent.com/87569550/148526244-6d903b13-be34-4112-98c0-c3c97c12c95a.png">
-# wetown-FE
